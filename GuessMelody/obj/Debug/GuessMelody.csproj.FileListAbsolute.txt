@@ -1,0 +1,17 @@
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\bin\Debug\GuessMelody.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\bin\Debug\GuessMelody.exe
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\bin\Debug\GuessMelody.pdb
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.Main.resources
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.exe
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.pdb
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.Settings.resources
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\bin\Debug\Interop.WMPLib.dll
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\Interop.WMPLib.dll
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.csproj.ResolveComReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\GuessMelody\obj\Debug\GuessMelody.Game.resources
