@@ -1,0 +1,9 @@
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\bin\Debug\WindowsFormsAppSimpleCounter.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\bin\Debug\WindowsFormsAppSimpleCounter.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\bin\Debug\WindowsFormsAppSimpleCounter.pdb
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.Form1.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleCounter\obj\Debug\WindowsFormsAppSimpleCounter.pdb
