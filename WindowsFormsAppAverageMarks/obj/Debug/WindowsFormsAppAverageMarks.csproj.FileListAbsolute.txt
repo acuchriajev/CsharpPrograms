@@ -1,0 +1,10 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\bin\Debug\WindowsFormsAppAverageMarks.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\bin\Debug\WindowsFormsAppAverageMarks.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\bin\Debug\WindowsFormsAppAverageMarks.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.Form1.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppAverageMarks\obj\Debug\WindowsFormsAppAverageMarks.pdb
