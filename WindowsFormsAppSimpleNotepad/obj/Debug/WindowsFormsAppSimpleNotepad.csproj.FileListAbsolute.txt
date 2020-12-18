@@ -1,0 +1,10 @@
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\bin\Debug\WindowsFormsAppSimpleNotepad.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\bin\Debug\WindowsFormsAppSimpleNotepad.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\bin\Debug\WindowsFormsAppSimpleNotepad.pdb
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.pdb
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppSimpleNotepad\obj\Debug\WindowsFormsAppSimpleNotepad.Notepad.resources
