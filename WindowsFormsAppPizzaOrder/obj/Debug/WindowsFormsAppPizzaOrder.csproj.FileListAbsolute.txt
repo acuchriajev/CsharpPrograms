@@ -1,0 +1,10 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.Form1.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.pdb
