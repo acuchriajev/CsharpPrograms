@@ -1,0 +1,20 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.FrmMain.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\bin\Debug\WindowsFormsAppCafeteria.pdb
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.FrmMain.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppCafeteria\obj\Debug\WindowsFormsAppCafeteria.pdb
