@@ -1,0 +1,33 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\bin\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPriceQuote.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.PriceQuote.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPriceQuote.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPriceQuote.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPizzaOrder\obj\Debug\WindowsFormsAppPizzaOrder.Print.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csprojAssemblyReference.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.PriceQuote.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.Print.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\bin\Debug\WindowsFormsAppPizzaOrder.pdb
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.PriceQuote.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.Print.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPriceQuote.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.exe
+C:\Users\AlexBestman\Desktop\Csharp\WindowsFormsApps\WindowsFormsAppPriceQuote\obj\Debug\WindowsFormsAppPizzaOrder.pdb
