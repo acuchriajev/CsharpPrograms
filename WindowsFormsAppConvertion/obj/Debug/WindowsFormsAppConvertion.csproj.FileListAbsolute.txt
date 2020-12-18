@@ -1,0 +1,10 @@
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\bin\Debug\WindowsFormsAppConvertion.exe.config
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\bin\Debug\WindowsFormsAppConvertion.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\bin\Debug\WindowsFormsAppConvertion.pdb
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.csprojAssemblyReference.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.UnitConverter.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.Properties.Resources.resources
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.csproj.GenerateResource.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.csproj.CoreCompileInputs.cache
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.exe
+C:\Users\AlexBestman\Desktop\Csharp\Tutorial\WindowsFormsAppConvertion\obj\Debug\WindowsFormsAppConvertion.pdb
