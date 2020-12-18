@@ -1,0 +1,9 @@
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.Form1.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.Properties.Resources.resources
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.csproj.GenerateResource.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.csproj.CoreCompileInputs.cache
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\bin\Debug\WindowsFormsAppWeeklyBankDeposit.exe.config
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\bin\Debug\WindowsFormsAppWeeklyBankDeposit.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\bin\Debug\WindowsFormsAppWeeklyBankDeposit.pdb
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.exe
+C:\Csharp\Csharp Programmes\WindowsFormsApps\WindowsFormsAppWeeklyBankDeposit\obj\Debug\WindowsFormsAppWeeklyBankDeposit.pdb
